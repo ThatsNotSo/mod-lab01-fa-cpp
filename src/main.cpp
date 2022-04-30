@@ -1,6 +1,6 @@
 // Copyright 2022 UNN-IASR
-#include "fun.h"
 #include <iostream>
+#include "fun.h"
 int main() {
     const char* str = "Actually random phrase! 1234 j as d";
     std::cout << faStr1(str);
