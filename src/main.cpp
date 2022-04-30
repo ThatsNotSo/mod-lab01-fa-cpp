@@ -7,3 +7,4 @@ int main() {
     std::cout << faStr2(str);
     std::cout << faStr3(str);
 }
+
