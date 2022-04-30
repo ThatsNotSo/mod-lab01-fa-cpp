@@ -1,9 +1,8 @@
 // Copyright 2022 UNN-IASR
 #include "fun.h"
 #include <math.h>
-#include <cstring>
 #include <iostream>
-
+#include <cstring>
 
 unsigned int faStr1(const char *str) {
   int countofwords = 0;
