@@ -83,4 +83,3 @@ unsigned int faStr3(const char *str) {
     wordssuminavg = round(wordssum / countofwords);
     return wordssuminavg;
 }
-
